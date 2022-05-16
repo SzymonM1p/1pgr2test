@@ -3,4 +3,3 @@ testowe repozytorium
 ##test GitHub 
 To ja staszek
 ta? to wyśmienicie
-Szymon M
